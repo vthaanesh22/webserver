@@ -1,4 +1,6 @@
 # Developing a Simple Webserver
+NAME:V.Thaanesh
+REG.NO:212223230228
 
 # AIM:
 
@@ -27,8 +29,28 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
+``````
+<!DOCTYPE html>
+<html>
+<head>
+<title>Using Python's SimpleHTTPServer Module</title>
+<style>
+#rectangle {
+height: 50px;
+width: 100px;
+background-color: #00f28f;
+}
+</style>
+</head>
+<body>
+<h2>Rectangle served by SimpleHTTPServer</h2>
+<div id="rectangle"></div>
+</body>
+</html>
+``````
 
 ## OUTPUT:
+![Screenshot 2024-01-01 130017](https://github.com/vthaanesh22/webserver/assets/139373686/f12f2485-43a3-4e28-a47b-6bf20d6b811f)
 
 ## RESULT:
 The program is executed succesfully
